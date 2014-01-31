@@ -1,3 +1,29 @@
+/* Chapter No. 08 - Project No. 03
+    File Name:          Chapter08Project03.java
+    Programmer:         Andrew Caldwell
+    Date Last Modified: Jan. 30, 2014
+    
+    Problem Statement:
+		Use polymorphism in a program
+    
+    Overall Plan
+		intialize rentalArray with movieArray
+		calculate and print out the total rental fees
+
+    Classes needed and Purpose
+    main class - Chapter08Project03
+    Rental - rental movie model
+    Movie - movie model
+	Action - movie model subclass
+	Drama - movie model subclass
+	Comedy - movie model subclass
+	AJTTMoney - money container
+	BigDecimal - good precision
+	System - streams
+	String - arrays of chars
+
+*/
+
 import java.math.BigDecimal;
 
 public class Chapter08Project03 {
